@@ -1,0 +1,6 @@
+C:\Users\yusuf\source\repos\WCFService_2Way_001\WCFService_2Way_001\obj\Debug\WCFService_2Way_001.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\WCFService_2Way_001\WCFService_2Way_001\bin\Debug\WCFService_2Way_001.dll.config
+C:\Users\yusuf\source\repos\WCFService_2Way_001\WCFService_2Way_001\bin\Debug\WCFService_2Way_001.dll
+C:\Users\yusuf\source\repos\WCFService_2Way_001\WCFService_2Way_001\bin\Debug\WCFService_2Way_001.pdb
+C:\Users\yusuf\source\repos\WCFService_2Way_001\WCFService_2Way_001\obj\Debug\WCFService_2Way_001.dll
+C:\Users\yusuf\source\repos\WCFService_2Way_001\WCFService_2Way_001\obj\Debug\WCFService_2Way_001.pdb
